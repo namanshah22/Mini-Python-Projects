@@ -1,0 +1,1 @@
+This Python project is a simple text-to-speech program that converts written text into spoken words made by naman shah. It uses the pyttsx3 library to generate speech from text input.
